@@ -6,4 +6,7 @@ Some of the featurs it contains : <br />
 • Add blogs/upadate/delete (perform crud operations ) .<br />
 • Every user will have an account where all action performed by that particular can be seen.  
 
-**• Technologies to be use- Python3,Bootstrap ,Flask ,HTML , CSS.**
+**• Technologies used- ** <br />
+
+**FrontEnd : Bootstrap ,HTML , CSS.**<br />
+**BackEnd : Python3 , Flask, SQLAlchemy.**
